@@ -230,9 +230,14 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 1.1.1 Descripción de la Startup
 
-**Misión**:
+ECAT Leasing es una startup dedicada a transformar la manera en que las organizaciones acceden y gestionan su tecnología. Nuestro producto principal, Smart Leasing, ofrece un modelo de arrendamiento inteligente que garantiza a empresas y al sector educativo contar siempre con equipos actualizados, evitando la carga de la obsolescencia tecnológica. A través de planes flexibles, brindamos no solo el acceso a hardware moderno, sino también un ecosistema de servicios de valor agregado que incluye soporte técnico especializado, mantenimiento preventivo y correctivo, gestión de garantías y atención ágil a incidencias.
 
-**Visión**:
+Además, comprendemos que cada empresa tiene necesidades y presupuestos distintos. Por ello, incorporamos dentro de Smart Leasing el servicio que evalúa los recursos, procesos y objetivos de cada cliente para recomendar los equipos más eficientes y rentables, asegurando que inviertan solo en lo que realmente necesitan. De esta manera, ECAT Leasing se convierte en un socio estratégico que simplifica la gestión de TI, optimiza los costos y permite que nuestros clientes se concentren en lo más importante: el crecimiento de su negocio.
+
+
+**Misión**: Facilitar la vida de las empresas haciéndonos cargo de sus activos de TI, brindando equipos siempre actualizados con nuestro servicio de Smart Leasing, junto con soporte, mantenimiento y gestión de garantías, para que nuestros clientes se concentren en crecer sin preocuparse por la tecnología.
+
+**Visión**: Ser la empresa referente en Latinoamérica en servicios de arrendamiento tecnológico inteligente, simplificando la gestión de activos TI y ayudando a las organizaciones a enfocarse en su crecimiento, mientras nosotros garantizamos que su tecnología esté siempre actualizada, optimizada y respaldada.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -253,19 +258,19 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 Para realizar los antecedentes y problemáticas, se realizó con anticipación la técnica 5 ‘W’s & 2 ‘H’s:
 
-**What**:
+**What**: El problema de la rápida obsolescencia tecnológica que enfrentan empresas y organizaciones, obligadas a invertir constantemente en nuevos equipos y a gestionar activos de TI de manera compleja y costosa.
 
-**When**:
+**When**: Actualmente, en un contexto donde los ciclos de actualización tecnológica se reducen a 1–2 años y las aplicaciones requieren hardware cada vez más potente.
 
-**Where**:
+**Where**: En empresas de distintos tamaños (pequeñas, medianas y grandes) y en instituciones educativas, especialmente en el Perú y con proyección a Latinoamérica.
 
-**Who**:
+**Who**: Los principales afectados son las organizaciones que no cuentan con presupuestos flexibles ni con áreas de TI especializadas para gestionar correctamente la elección, uso y renovación de sus equipos.
 
-**Why**:
+**Why**: Porque la constante necesidad de actualización genera altos costos, dificulta la gestión de activos y provoca que muchas empresas gasten de más en equipos que no aprovechan, o compren dispositivos insuficientes para sus necesidades reales.
 
-**How**:
+**How**: Las empresas suelen comprar equipos sin una evaluación estratégica, gestionando por sí mismas la garantía, el mantenimiento y la reposición, lo que aumenta el tiempo y los recursos dedicados a la administración de TI.
 
-**How much**:
+**How much**: El impacto se traduce en gastos significativos de capital (CapEx), sobrecostos en soporte y mantenimiento, pérdida de productividad y baja eficiencia en el aprovechamiento de la inversión tecnológica.
 
 _Estadística de la problemática_
 
@@ -344,6 +349,12 @@ _Estadística de la problemática_
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
+
+1. Empresas (pequeñas, medianas y grandes)
+Cualquier organización que dependa de la tecnología para su funcionamiento, sin importar el sector al que pertenezca. Pueden ser entidades financieras, compañías de retail, industrias manufactureras, estudios contables, empresas de servicios o startups. En general, todas aquellas que requieren equipos tecnológicos para operar de forma eficiente en un mercado competitivo.
+
+2. Instituciones Educativas (universidades, colegios, escuelas, institutos)
+Organizaciones dedicadas a la enseñanza, investigación o formación profesional que necesitan equipos tecnológicos para actividades académicas, administrativas y de apoyo a sus estudiantes y docentes. Incluye tanto instituciones de gran escala como universidades, así como colegios e institutos que buscan modernizar sus recursos tecnológicos.
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
