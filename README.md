@@ -270,6 +270,8 @@ _Estadística de la problemática_
 
 ### 1.2.2 Lean UX Process
 
+A continuacion se presentara la solucion al Lean UX que usaremos para poder desarrollar adecuadamente nuestro proyecto y ademas poder definir nuestro mercado objetivo.
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 **Problem Statement 1:**
