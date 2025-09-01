@@ -286,31 +286,39 @@ Una gran mayoria de organizaciones no ven necesario contar con un area TI especi
 
 **Business Outcomes:**
 
-- **Creemos que mis usuarios necesitan**
+- **Creemos que mis usuarios necesitan** gestionar correctamente sus activos de TI, contando con equipos actualizados sin hacer grandes inversiones iniciales y optimizar sus presupuestos de tecnolgia.
 
-- **Estas necesidades se pueden resolver**
+- **Estas necesidades se pueden resolver** ofreciendo un modelo de servicio Smart Leasing la cual incluye arrendamiento tecnologico inteligente, soportem mantenimiento y gestion de garantias en un solo servicio.
 
-- **Nuestros clientes iniciales son**
+- **Nuestros clientes iniciales son** pequeñas y medianas empresas en Peru, las cuales carecen de n area de TI robusta, ademas de instituciones educativas que requieren actualizar equipos constantemente.
 
-- **El valor #1 que un cliente requiere de nuestro servicio es**
+- **El valor #1 que un cliente requiere de nuestro servicio es** reducir cosotos de inversion en tecnologia logrando garantizar que sus equipos esten constantemente actualizados.
 
-- **El cliente también puede obtener estos beneficios adicionales**
+- **El cliente también puede obtener estos beneficios adicionales** como ahorro en tiempo y recursos de gestion de TI, soporte especializado, mantemiento preventivo y correctivo, optimizacion de productividad y flexibilidad para escalar su infraestructura tecnologica.
 
-- **Adquiriremos a nuestros clientes a través del**
+- **Adquiriremos a nuestros clientes a través del** marketing digital (LinkedIn, Google Ads, redes sociales), alianzas con proveedores de software y hardware, networking en eventos empresariales y referencias de clientes actuales.
 
-- **Haremos dinero a través de**
+- **Haremos dinero a través de** contratos de arrendamiento mensual de equipos (modelo SaaS/Leasing), servicios adicionales de soporte premium y acuerdos de mantenimiento extendido.
 
-- **Nuestra competencia de mercado serán**
+- **Nuestra competencia de mercado serán** empresas de leasing financiero, distribuidores tradicionales de hardware y proveedores de outsourcing de TI.
 
-- **Los venceremos debido a que**
+- **Los venceremos debido a que** ofreceremos servicios integrales enfocados en un valor estrategico, no solo entregando equipos, sino en la optimizacion de recursos, un soporte continuo y una festion completa del ciclo de vida tecnologico.
 
-- **Nuestros mayores riesgos son**
+- **Nuestros mayores riesgos son**la falta de confianza inicial en el modelo de leasing tecnológico, la resistencia de empresas acostumbradas a comprar equipos, y la competencia de grandes proveedores nacionales e internacionales.
 
-- **Resolveremos esto mediante**
+- **Resolveremos esto mediante** campañas educativas, casos de éxito, pruebas piloto con clientes, y diferenciación en servicio al cliente y soporte local personalizado.
 
 - **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:**
 
+- Prefiera arrendar equipos en lugar de comprar.
+- Se reduzca sus costos de TI reinvirtiendo en crecimiento de su negocio.
+- Confie en PcPedia como socio estrategico de TI.
+
 - **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:**
+
+- Las empresas estén dispuestas a migrar de un modelo de compra a uno de leasing.
+- Los beneficios de costo y productividad sean lo suficientemente evidentes.
+- Podamos mantener alianzas sólidas con proveedores de hardware de calidad.
 
 **User Outcomes**
 
