@@ -270,61 +270,124 @@ _Estadística de la problemática_
 
 ### 1.2.2 Lean UX Process
 
+A continuacion se presentara la solucion al Lean UX que usaremos para poder desarrollar adecuadamente nuestro proyecto y ademas poder definir nuestro mercado objetivo.
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 **Problem Statement 1:**
 
+Actualmente las empresas en el Peru y latinoamerica estan enfrentando una alta obsolescencia tecnologica, esto esta obligando a invertir rapidamente en actualizaciones, cambios y compras de nuevos equipos costosos y de mayor gama. Estas situaciones generan gastos altos de capital, reduce la productividad comprometiendo la competitividad, ya que muchas organizaciones adquieren dispositivos baratos sin cubrir verdaderamente sus necesidades actuales y a futuro, sin poder tener una escalabilidad correcta.
+
 **Problem Statement 2:**
+
+Una gran mayoria de organizaciones no ven necesario contar con un area TI especializada y de un modelo estrategico para poder administrar sus equipos. Esto genera a comprar equipos sin realmente cubrir sus necesidades, dificultades en la gestion de garantias y mantenimientos, asi como sobrecostos ocultos en soporte y reposicion de equipos, lo que distra a las empresas de su objetivo principal: crecer.
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes:**
 
-- **Creemos que mis usuarios necesitan**
+- **Creemos que mis usuarios necesitan** gestionar correctamente sus activos de TI, contando con equipos actualizados sin hacer grandes inversiones iniciales y optimizar sus presupuestos de tecnolgia.
 
-- **Estas necesidades se pueden resolver**
+- **Estas necesidades se pueden resolver** ofreciendo un modelo de servicio Smart Leasing la cual incluye arrendamiento tecnologico inteligente, soportem mantenimiento y gestion de garantias en un solo servicio.
 
-- **Nuestros clientes iniciales son**
+- **Nuestros clientes iniciales son** pequeñas y medianas empresas en Peru, las cuales carecen de n area de TI robusta, ademas de instituciones educativas que requieren actualizar equipos constantemente.
 
-- **El valor #1 que un cliente requiere de nuestro servicio es**
+- **El valor #1 que un cliente requiere de nuestro servicio es** reducir cosotos de inversion en tecnologia logrando garantizar que sus equipos esten constantemente actualizados.
 
-- **El cliente también puede obtener estos beneficios adicionales**
+- **El cliente también puede obtener estos beneficios adicionales** como ahorro en tiempo y recursos de gestion de TI, soporte especializado, mantemiento preventivo y correctivo, optimizacion de productividad y flexibilidad para escalar su infraestructura tecnologica.
 
-- **Adquiriremos a nuestros clientes a través del**
+- **Adquiriremos a nuestros clientes a través del** marketing digital (LinkedIn, Google Ads, redes sociales), alianzas con proveedores de software y hardware, networking en eventos empresariales y referencias de clientes actuales.
 
-- **Haremos dinero a través de**
+- **Haremos dinero a través de** contratos de arrendamiento mensual de equipos (modelo SaaS/Leasing), servicios adicionales de soporte premium y acuerdos de mantenimiento extendido.
 
-- **Nuestra competencia de mercado serán**
+- **Nuestra competencia de mercado serán** empresas de leasing financiero, distribuidores tradicionales de hardware y proveedores de outsourcing de TI.
 
-- **Los venceremos debido a que**
+- **Los venceremos debido a que** ofreceremos servicios integrales enfocados en un valor estrategico, no solo entregando equipos, sino en la optimizacion de recursos, un soporte continuo y una festion completa del ciclo de vida tecnologico.
 
-- **Nuestros mayores riesgos son**
+- **Nuestros mayores riesgos son**la falta de confianza inicial en el modelo de leasing tecnológico, la resistencia de empresas acostumbradas a comprar equipos, y la competencia de grandes proveedores nacionales e internacionales.
 
-- **Resolveremos esto mediante**
+- **Resolveremos esto mediante** campañas educativas, casos de éxito, pruebas piloto con clientes, y diferenciación en servicio al cliente y soporte local personalizado.
 
 - **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:**
 
+  - Prefiera arrendar equipos en lugar de comprar.
+  - Se reduzca sus costos de TI reinvirtiendo en crecimiento de su negocio.
+  - Confie en PcPedia como socio estrategico de TI.
+
 - **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:**
+
+  - Las empresas estén dispuestas a migrar de un modelo de compra a uno de leasing.
+  - Los beneficios de costo y productividad sean lo suficientemente evidentes.
+  - Podamos mantener alianzas sólidas con proveedores de hardware de calidad.
 
 **User Outcomes**
 
 **¿Quiénes serán nuestros usuarios?**
 
+Directores financieros, gerentes de operaciones, responsables de TI, y administradores de instituciones educativas que necesitan equipos actualizados sin grandes desembolsos.
+
 **¿Dónde encaja nuestro producto en su vida o trabajo?**
+
+En la planeación y gestión de su infraestructura tecnológica, ayudándoles a enfocarse en su negocio sin preocuparse por la obsolescencia ni la gestión de equipos.
 
 **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
 **Problemas:**
 
+- Desconfianza en el modelo de arrendamiento.
+
+- Necesidad de flexibilidad contractual.
+
+- Adaptación a diferentes presupuestos.
+
 **Soluciones:**
+
+- Casos de éxito, contratos transparentes y soporte personalizado.
+
+- Modelos de leasing flexibles según necesidad y tamaño de la empresa.
+
+- Planes escalables y ajustables en el tiempo.
 
 **¿Cómo y cuándo es usado nuestro producto?**
 
+En el ciclo operativo diario de las empresas: al adquirir nuevos equipos, al renovar tecnología obsoleta, y en la gestión continua de TI (mantenimiento, soporte, garantías).
+
 **¿Qué características son importantes?**
+
+- Flexibilidad en planes de arrendamiento.
+- Gestión centralizada de soporte y garantías.
+- Reportes de costos y eficiencia tecnológica.
+- Equipos actualizados según necesidad real.
 
 **¿Cómo debe verse y comportarse nuestro producto?**
 
+Debe transmitir confianza, modernidad y simplicidad, con una interfaz clara (si es digital), y un servicio que se perciba ágil, transparente y estratégico.
+
 **Features**
+
+**_Desde la cuenta de la empresa cliente:_**
+
+- Las empresas deben tener acceso a un panel donde visualicen todos los equipos arrendados, organizados por área o departamento. Esto les permitirá un control ordenado y evitar pérdidas o duplicidades.
+
+- Un historial de mantenimiento y soporte estará disponible para cada equipo, lo que garantiza transparencia en las intervenciones técnicas y ayuda a tomar decisiones futuras.
+
+- Contarán con un sistema de alertas automáticas para notificar cuándo un equipo está próximo a su renovación o si requiere atención especial, evitando interrupciones en su productividad.
+
+- El cliente podrá solicitar upgrades de hardware de forma ágil desde su cuenta, ajustando los recursos a sus necesidades reales en tiempo casi inmediato.
+
+- Un dashboard de costos consolidado permitirá analizar el gasto mensual en TI y medir el ahorro frente a un modelo tradicional de compra.
+
+**_Desde la cuenta de administración de PcPedia:_**
+
+- Los administradores tendrán un sistema centralizado para monitorear en tiempo real todos los equipos en uso por los clientes, junto con su estado de garantía y mantenimientos programados.
+
+- Contarán con herramientas de análisis predictivo para recomendar a cada cliente los equipos más rentables según su patrón de uso.
+
+- Se dispondrá de un módulo para gestionar contratos y facturación de manera automatizada, evitando errores manuales.
+
+- La plataforma permitirá registrar casos de soporte y asignar técnicos rápidamente, reduciendo los tiempos de respuesta.
+
+- Un repositorio de métricas de clientes servirá para identificar patrones, generar reportes y mejorar continuamente el servicio de Smart Leasing.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
