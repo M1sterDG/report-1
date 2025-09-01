@@ -334,19 +334,19 @@ En la planeación y gestión de su infraestructura tecnológica, ayudándoles a 
 
 **Problemas:**
 
-1. Desconfianza en el modelo de arrendamiento.
+- Desconfianza en el modelo de arrendamiento.
 
-2. Necesidad de flexibilidad contractual.
+- Necesidad de flexibilidad contractual.
 
-3. Adaptación a diferentes presupuestos.
+- Adaptación a diferentes presupuestos.
 
 **Soluciones:**
 
-1. Casos de éxito, contratos transparentes y soporte personalizado.
+- Casos de éxito, contratos transparentes y soporte personalizado.
 
-2. Modelos de leasing flexibles según necesidad y tamaño de la empresa.
+- Modelos de leasing flexibles según necesidad y tamaño de la empresa.
 
-3. Planes escalables y ajustables en el tiempo.
+- Planes escalables y ajustables en el tiempo.
 
 **¿Cómo y cuándo es usado nuestro producto?**
 
