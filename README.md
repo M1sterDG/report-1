@@ -237,13 +237,28 @@ Además, comprendemos que cada empresa tiene necesidades y presupuestos distinto
 
 <table>
     <tr>
+        <th colspan="3" style="text-align:center;"> u20211a118 </th>
+        <th colspan="10" style="text-align:center;"> Alessandro Ramiro Condori Lozano </th>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align:center;">
+            <img src="https://raw.githubusercontent.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Report/refs/heads/main/assets/images/Chapter-01/AlessandroCondori.jpg" alt="Mi foto" width="120" height="120">
+        </td>
+        <td colspan="10" style="text-align:center;">
+            <b>Ingeniería de Software</b> <br>
+            Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo.
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
         <th colspan="3"> "codigo"</th>
         <th colspan="10"> "nombre"</th>
     <tr>
         <td colspan="3"> "foto"</td>
         <td colspan="10">"Descripcion"</td>
     </tr>
-
 </table>
 
 ## 1.2 Solution Profile
