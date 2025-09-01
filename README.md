@@ -310,35 +310,84 @@ Una gran mayoria de organizaciones no ven necesario contar con un area TI especi
 
 - **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:**
 
-- Prefiera arrendar equipos en lugar de comprar.
-- Se reduzca sus costos de TI reinvirtiendo en crecimiento de su negocio.
-- Confie en PcPedia como socio estrategico de TI.
+  - Prefiera arrendar equipos en lugar de comprar.
+  - Se reduzca sus costos de TI reinvirtiendo en crecimiento de su negocio.
+  - Confie en PcPedia como socio estrategico de TI.
 
 - **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:**
 
-- Las empresas estén dispuestas a migrar de un modelo de compra a uno de leasing.
-- Los beneficios de costo y productividad sean lo suficientemente evidentes.
-- Podamos mantener alianzas sólidas con proveedores de hardware de calidad.
+  - Las empresas estén dispuestas a migrar de un modelo de compra a uno de leasing.
+  - Los beneficios de costo y productividad sean lo suficientemente evidentes.
+  - Podamos mantener alianzas sólidas con proveedores de hardware de calidad.
 
 **User Outcomes**
 
 **¿Quiénes serán nuestros usuarios?**
 
+Directores financieros, gerentes de operaciones, responsables de TI, y administradores de instituciones educativas que necesitan equipos actualizados sin grandes desembolsos.
+
 **¿Dónde encaja nuestro producto en su vida o trabajo?**
+
+En la planeación y gestión de su infraestructura tecnológica, ayudándoles a enfocarse en su negocio sin preocuparse por la obsolescencia ni la gestión de equipos.
 
 **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
 **Problemas:**
 
+1. Desconfianza en el modelo de arrendamiento.
+
+2. Necesidad de flexibilidad contractual.
+
+3. Adaptación a diferentes presupuestos.
+
 **Soluciones:**
+
+1. Casos de éxito, contratos transparentes y soporte personalizado.
+
+2. Modelos de leasing flexibles según necesidad y tamaño de la empresa.
+
+3. Planes escalables y ajustables en el tiempo.
 
 **¿Cómo y cuándo es usado nuestro producto?**
 
+En el ciclo operativo diario de las empresas: al adquirir nuevos equipos, al renovar tecnología obsoleta, y en la gestión continua de TI (mantenimiento, soporte, garantías).
+
 **¿Qué características son importantes?**
+
+- Flexibilidad en planes de arrendamiento.
+- Gestión centralizada de soporte y garantías.
+- Reportes de costos y eficiencia tecnológica.
+- Equipos actualizados según necesidad real.
 
 **¿Cómo debe verse y comportarse nuestro producto?**
 
+Debe transmitir confianza, modernidad y simplicidad, con una interfaz clara (si es digital), y un servicio que se perciba ágil, transparente y estratégico.
+
 **Features**
+
+**_Desde la cuenta de la empresa cliente:_**
+
+- Las empresas deben tener acceso a un panel donde visualicen todos los equipos arrendados, organizados por área o departamento. Esto les permitirá un control ordenado y evitar pérdidas o duplicidades.
+
+- Un historial de mantenimiento y soporte estará disponible para cada equipo, lo que garantiza transparencia en las intervenciones técnicas y ayuda a tomar decisiones futuras.
+
+- Contarán con un sistema de alertas automáticas para notificar cuándo un equipo está próximo a su renovación o si requiere atención especial, evitando interrupciones en su productividad.
+
+- El cliente podrá solicitar upgrades de hardware de forma ágil desde su cuenta, ajustando los recursos a sus necesidades reales en tiempo casi inmediato.
+
+- Un dashboard de costos consolidado permitirá analizar el gasto mensual en TI y medir el ahorro frente a un modelo tradicional de compra.
+
+**_Desde la cuenta de administración de PcPedia:_**
+
+- Los administradores tendrán un sistema centralizado para monitorear en tiempo real todos los equipos en uso por los clientes, junto con su estado de garantía y mantenimientos programados.
+
+- Contarán con herramientas de análisis predictivo para recomendar a cada cliente los equipos más rentables según su patrón de uso.
+
+- Se dispondrá de un módulo para gestionar contratos y facturación de manera automatizada, evitando errores manuales.
+
+- La plataforma permitirá registrar casos de soporte y asignar técnicos rápidamente, reduciendo los tiempos de respuesta.
+
+- Un repositorio de métricas de clientes servirá para identificar patrones, generar reportes y mejorar continuamente el servicio de Smart Leasing.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
